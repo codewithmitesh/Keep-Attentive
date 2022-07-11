@@ -1,0 +1,10 @@
+
+Note :- 
+
+Be Careful while push!!!
+
+first clone reposiratory then commit the changes locally and when you think your feature is complete then send merge request 
+
+FrontEnd Team will be working on frontend and backend team will be on backend
+
+
